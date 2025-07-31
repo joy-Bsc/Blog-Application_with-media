@@ -12,7 +12,7 @@ This is a simplified setup guide for getting the blog application running quickl
 ### Installation Commands
 ```bash
 # 1. Clone and navigate
-git clone <repository-url>
+git clone https://github.com/joy-Bsc/Blog-Application_with-media
 cd blog-app
 
 # 2. Install dependencies
