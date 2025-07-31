@@ -73,7 +73,7 @@ Before running this application, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/joy-Bsc/Blog-Application_with-media
 cd blog-app
 ```
 
